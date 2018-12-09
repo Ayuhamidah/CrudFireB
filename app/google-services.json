@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "516419778278",
+    "firebase_url": "https://crudfirebase-c612a.firebaseio.com",
+    "project_id": "crudfirebase-c612a",
+    "storage_bucket": "crudfirebase-c612a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516419778278:android:1424b94e5e45f8e1",
+        "android_client_info": {
+          "package_name": "com.example.asus.crudfireb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516419778278-2u44kn0jdnlf28d61uavefroqmpqgg5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.crudfireb",
+            "certificate_hash": "44346e474262f8f73c67ad55974b684721fdd79b"
+          }
+        },
+        {
+          "client_id": "516419778278-60k92eojov1cong5uj8j3h49v3m5j47o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn1EzbA1MmBvFTbpl9_31p3LQ44DqoKhY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516419778278-60k92eojov1cong5uj8j3h49v3m5j47o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
